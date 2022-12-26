@@ -1,0 +1,5 @@
+Nama : Fariz Khazmi Ramadlan
+Rumah Sakit : RSU Amanah Sumpiuh
+Kota / Kabupaten : BANYUMAS
+Profesi : Programmer
+Bahasa Promograman : PHP
